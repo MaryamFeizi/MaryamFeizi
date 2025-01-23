@@ -1,10 +1,10 @@
 ## Hi there 👋
-In my page you can find different projects that I have done individualy or in a group.
+In my page you can find different projects that I have done individualy or in a group but you should know that they are not all my projects😄
 - 🔭 I’m currently studying in University of Padova.
 - 🎓 I'm master student in Physics of Data.
 - 💬 Feel free to ask any question yoy have about my codes
 - 📫 How to reach me: feizi.maryam98@gmail.com
-- 😄 I should say that they are not all of my projects.
+
 <!--
 **MaryamFeizi/MaryamFeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
