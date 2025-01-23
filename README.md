@@ -13,7 +13,7 @@ In my page you can find different projects that I have done individualy or in a 
   </a>
 </p>
 
-  ![My Skills](https://skillicons.dev/icons?i=python,matlab)
+![Python](https://skillicons.dev/icons?i=python) NumPy, Pandas, Scikit-learn
 
 <!--
 **MaryamFeizi/MaryamFeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
