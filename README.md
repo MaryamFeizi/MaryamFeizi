@@ -6,6 +6,7 @@ In my page you can find different projects that I have done individualy or in a 
 - 💬 Feel free to ask any question yoy have about my codes
 - 👾 most used libraries: Numpy, Pandas, Networkx, Matplot, Scipy
 - 📫 How to reach me: feizi.maryam98@gmail.com
+  ![My Skills](https://skillicons.dev/icons?i=python)
 
 <!--
 **MaryamFeizi/MaryamFeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
