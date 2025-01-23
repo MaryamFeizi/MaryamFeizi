@@ -6,11 +6,13 @@ In my page you can find different projects that I have done individualy or in a 
 - 💬 Feel free to ask any question yoy have about my codes
 - 👾 most used libraries: Numpy, Pandas, Networkx, Matplot, Scipy
 - 📫 How to reach me: feizi.maryam98@gmail.com
+  
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python, docker,fortran, latex, matlab,r" />
   </a>
 </p>
+
   ![My Skills](https://skillicons.dev/icons?i=python)
 
 <!--
