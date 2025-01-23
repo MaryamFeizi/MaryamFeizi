@@ -9,11 +9,11 @@ In my page you can find different projects that I have done individualy or in a 
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python, docker,fortran, latex, matlab,r" />
+    <img src="https://skillicons.dev/icons?i=python,docker,fortran,latex,matlab,r" />
   </a>
 </p>
 
-  ![My Skills](https://skillicons.dev/icons?i=python)
+  ![My Skills](https://skillicons.dev/icons?i=python,matlab)
 
 <!--
 **MaryamFeizi/MaryamFeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
