@@ -4,7 +4,7 @@ In my page you can find different projects that I have done individualy or in a 
 - 🎓 I'm master student in Physics of Data.
 - 💻 Currantly I'm working on my thesis which is about complex network and quantum information.😶‍🌫️
 - 👾 I'm looking for a Phd/ job position for next step
-- 💬 Feel free to ask any question yoy have about my codes
+- 💬 Feel free to ask any question you have about my codes.
 - 📫 How to reach me: feizi.maryam98@gmail.com
   
 ## Skills
